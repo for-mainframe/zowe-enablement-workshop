@@ -1,7 +1,7 @@
 # **Zowe Enablement Workshop**  
 
 ## **Enablement Workshop Agenda**  
-The enablement sessions will focus on the following key areas:  
+The enablement workshop will focus on the following key areas:  
 
 ---
 
